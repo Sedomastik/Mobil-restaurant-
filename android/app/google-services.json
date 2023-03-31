@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "449521064995",
+    "project_id": "database-9e857",
+    "storage_bucket": "database-9e857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449521064995:android:20b21acc7bdf6441be2596",
+        "android_client_info": {
+          "package_name": "com.restorantakip.restorantakip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449521064995-sr48fbdmldpqaqsh78q2tbb06dj111lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAySU8jHPE3VafXrOwuBZQsbFvhUvuIpbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449521064995-sr48fbdmldpqaqsh78q2tbb06dj111lq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
